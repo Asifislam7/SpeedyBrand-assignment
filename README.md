@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎵 Streamify Analytics Dashboard  
 
-## Getting Started
+🚀 **A powerful and visually appealing analytics dashboard for a fictional music streaming service.**  
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📌 Overview  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The **Streamify Analytics Dashboard** is a **modern, interactive, and responsive web application** built using **Next.js**. It provides valuable insights into user activity, revenue, and song performance through **real-time charts, tables, and advanced filtering options**.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🔹 **Live Demo:** [Click Here to View 🚀](https://speedybrand-lrpk9gpaf-syedasif9072gmailcoms-projects.vercel.app/)
+🔹 **GitHub Repository:** [Streamify Dashboard](https://github.com/Asifislam7/SpeedyBrand-assignment) 
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ✨ Features  
 
-To learn more about Next.js, take a look at the following resources:
+### ✅ Core Features (As Required)  
+- 📊 **Key Metrics Dashboard** → Total Users, Active Users, Total Streams, Revenue, and Top Artist.  
+- 📈 **Data Visualizations** → Line Chart (User Growth), Pie Chart (Revenue Distribution), Bar Chart (Top Streamed Songs).  
+- 📋 **Data Table** → Displays **recent streams** with sorting & filtering options.  
+- 🎯 **Interactive Charts** → Hover and click interactions to filter data dynamically.  
+- 📱 **Fully Responsive UI** → Optimized for **mobile, tablet, and desktop** using **Tailwind CSS**.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🌟 Extra Features Implemented  
+- 🌍 **Geographical Distribution of Streams** → Displays song popularity by country using a **world map visualization**.  
+- 🔄 **User Retention Graph** → Analyzes user retention over different time periods.  
+- 🎵 **Top Streamed Songs & Artists Leaderboard** → Displays ranking of most-played songs & artists.  
+- 🔍 **Real-Time Data Filtering & Search** → Users can filter data **by date, artist, and song name**.  
+- 🚀 **Vercel Deployment** → Deployed with **blazing-fast performance** on **Vercel**.  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🖥️ Tech Stack  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Frontend:** Next.js (React Framework)  
+- **Styling:** Tailwind CSS (Modern, Responsive UI)  
+- **Charts & Data Visualization:** Recharts.js & Chart.js  
+- **State Management:** React Use State 
+- **Deployment:** Vercel  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📸 Screenshots  
+![image](https://github.com/user-attachments/assets/998ab5b3-fc50-4604-8154-8fe809e6c45c)
+
+
+
